@@ -16,6 +16,7 @@ While going through my analysis, I wanted to address 3 questions:
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/VineReviews.png">
 </p>
+* Through our first analysis, we can see that all the digital music purchases were not made by  
  
 <h4>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</h4>
 <p align = "left">
