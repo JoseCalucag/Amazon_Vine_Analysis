@@ -14,17 +14,17 @@ While going through my analysis, I wanted to address 3 questions:
 
 <h4>How many Vine reviews and non-Vine reviews were there?</h4>
 <p align = "left">
-<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/VineCount.png">
+<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/VineReviews.png">
 </p>
  
 <h4>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</h4>
 <p align = "left">
-<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/number5star.png">
+<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewCount.png">
 </p>
 
 <h4>What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</h4>
 <p align = "left">
-<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/5starpdupd.png">
+<img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewPercent.png">
 </p>
 
 
