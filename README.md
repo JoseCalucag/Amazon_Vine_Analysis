@@ -16,21 +16,20 @@ While going through my analysis, I wanted to address 3 questions:
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/VineReviews.png">
 </p>
-* Through our first analysis, we can see that all the digital music purchases were not made by  
+* Through our first analysis, we can already conclude that there was no bias when it comes to digital music pruchases as 1,688,881 reviews were made by non-Vine members.
  
 <h4>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</h4>
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewCount.png">
 </p>
+* As there were no Vine members, I put my focus on the non-Vine 5 star reviews. As we can see in the above visual, 1,345,146 were 5 star reviews, leaving 343,735 non-5 star reviews.
+
 
 <h4>What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</h4>
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewPercent.png">
 </p>
-
+* As prior, I put my focus on the non-Vine 5 star review percentage, which was around 79.6%.
 
 <h2>Summary</h2>
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
-
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+After reflecting on my results, it was easy to assume that customers wouldn't have any bias to their digital music purchases as people tend to not buy music based upon what other people say but based upon their own palette. To elaborate, when have you ever purchased music you've never heard of based on what someone said? The buyer probably had a pre-concieved idea of what the artist sounded like,maybe did a little research then went ahead and made the purchase; which is prolly why there's still a 20% of non-5 star reviews. If we were to take the analysis forward, I would probably want to see if any of the custmers were Amazon music members and see if those purchases fit in their music listening profiles. With that, you can see if there was any outside biases to consider (i.e. movie/tv show soundtracks, friend/network recommendations, etc.)
