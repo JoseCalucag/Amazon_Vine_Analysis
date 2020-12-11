@@ -12,20 +12,20 @@ I have been tasked by stakeholders to see if there was any bias made by shoppers
 <h2>Results </h2>
 While going through my analysis, I wanted to address 3 questions:
 
-<h4>How many Vine reviews and non-Vine reviews were there?</h4>
+<h3>How many Vine reviews and non-Vine reviews were there?</h3>
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/VineReviews.png">
 </p>
 * Through our first analysis, we can already conclude that there was no bias when it comes to digital music pruchases as 1,688,881 reviews were made by non-Vine members.
  
-<h4>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</h4>
+<h3>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?</h3>
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewCount.png">
 </p>
 * As there were no Vine members, I put my focus on the non-Vine 5 star reviews. As we can see in the above visual, 1,345,146 were 5 star reviews, leaving 343,735 non-5 star reviews.
 
 
-<h4>What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</h4>
+<h3>What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?</h3>
 <p align = "left">
 <img src = "https://github.com/JoseCalucag/Amazon_Vine_Analysis/blob/main/pics/ReviewPercent.png">
 </p>
